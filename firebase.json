@@ -1,6 +1,6 @@
 {
     "hosting": {
-        "site": "abhinav-rs",
+        "site": "abhijithps",
         "public": "/",
         "ignore": [
             "firebase.json",
